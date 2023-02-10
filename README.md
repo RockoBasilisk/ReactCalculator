@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=6Jfk8ic3KVk
 
 ****
 **Usage:**
-```console
+```bash
 $ git clone https://github.com/RockoBasilisk/ReactCalculator.git
 $ cd ReactCalculator
 $ npm start
