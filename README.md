@@ -1,4 +1,4 @@
-Calculadora hecha en React siguendo el curso de React de freeCodeCamp (Por Estefania):
+Calculadora programada en React siguendo el curso de freeCodeCamp (Por Estefania):
 https://www.youtube.com/watch?v=6Jfk8ic3KVk
 
 **Este proyecto te ayuda a:**
