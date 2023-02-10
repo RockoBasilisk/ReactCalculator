@@ -1,7 +1,7 @@
 Calculadora hecha en React siguendo el curso de React de freeCodeCamp (Por Estefania):
 https://www.youtube.com/watch?v=6Jfk8ic3KVk
 
-**Este proyecto te ayuda a: **
+**Este proyecto te ayuda a:**
   * Entender el concepto de useState y de que es un hook
   * Te muestra el uso del operador ternario
   * Te muestra el uso de los template string
